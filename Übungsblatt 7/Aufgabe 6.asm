@@ -1,7 +1,7 @@
 JMP start
 
 input:
-DB 101010b
+DB 00101010b
 
 start:
 MOV A, [input]
